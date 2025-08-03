@@ -11,12 +11,12 @@
 <table>
     <tr>
         <td style="vertical-align: top;">
-            <p>- 🔭 I’m currently working on <a href="https://github.com/LinuxHari/MERN-Tour">MERN-Tour</a></p>
+            <p>- 🔭 I’m currently working on <a href="https://github.com/LinuxHari/intHunt/">Inthunt</a></p>
             <p>- 🌱 I’m currently learning <strong>DSA in JavaScript</strong></p>
             <p>- 👨‍💻 All of my projects are available at <a href="https://linuxhari-portfolio.vercel.app/">https://linuxhari-portfolio.vercel.app/</a></p>
             <p>- 💬 Ask me about <strong>React, Node, MongoDB, Linux and Security</strong></p>
             <p>- 📫 How to reach me <strong>harimanoharancs@gmail.com</strong></p>
-            <p>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1C1m4f2P0ynSPHbKvOynoCDE9NmepNt6T/view?usp=sharing">resume</a></p>
+            <p>- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Pp3HcQTT61qzACbcqv5C7lyDbpAY6WFB/view?usp=drive_link">resume</a></p>
             <p>- ⚡ Fun fact <strong>I am Batman!</strong></p>
         </td>
         <td style="vertical-align: top;">
