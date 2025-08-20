@@ -11,7 +11,7 @@
 <table>
     <tr>
         <td style="vertical-align: top;">
-            <p>- 🔭 I’m currently working on <a href="https://github.com/LinuxHari/intHunt/">Inthunt</a></p>
+            <p>- 🔭 I’m currently working on <a href="https://github.com/LinuxHari/resHunt/">Reshunt</a></p>
             <p>- 🌱 I’m currently learning <strong>DSA in JavaScript</strong></p>
             <p>- 👨‍💻 All of my projects are available at <a href="https://linuxhari-portfolio.vercel.app/">https://linuxhari-portfolio.vercel.app/</a></p>
             <p>- 💬 Ask me about <strong>React, Node, MongoDB, Linux and Security</strong></p>
